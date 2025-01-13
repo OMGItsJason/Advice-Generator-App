@@ -27,7 +27,7 @@
 			</div>
 			<Button
 				size="icon"
-				class="absolute -bottom-5 size-14 rounded-full bg-green-500 hover:bg-green-400 hover:shadow-2xl hover:shadow-green-300"
+				class="absolute -bottom-8 size-14 rounded-full bg-green-500 hover:bg-green-400 hover:shadow-2xl hover:shadow-green-300"
 			>
 				<img src={Dice} alt="Dice" />
 			</Button>
